@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main {
+public class MaddnessWithMethods {
     static void getAnIntFromUser(int num) {
         System.out.println("Your number is " + num);
     }
